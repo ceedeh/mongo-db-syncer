@@ -1,4 +1,4 @@
-module github.com/princecee/mongo-db-syncer
+module github.com/ceedeh/mongo-db-syncer
 
 go 1.23.0
 
